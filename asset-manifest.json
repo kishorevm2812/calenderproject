@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calenderproject-name/static/css/main.3101d097.css",
+    "main.js": "/calenderproject-name/static/js/main.0e5f0b3f.js",
+    "index.html": "/calenderproject-name/index.html",
+    "main.3101d097.css.map": "/calenderproject-name/static/css/main.3101d097.css.map",
+    "main.0e5f0b3f.js.map": "/calenderproject-name/static/js/main.0e5f0b3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3101d097.css",
+    "static/js/main.0e5f0b3f.js"
+  ]
+}
